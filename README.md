@@ -1,3 +1,4 @@
+[![Azure Python 3.12.2](https://github.com/werthds-io/multi-cloud-exercise/actions/workflows/main.yml/badge.svg)](https://github.com/werthds-io/multi-cloud-exercise/actions/workflows/main.yml)
 
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
